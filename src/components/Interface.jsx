@@ -89,7 +89,7 @@ const AboutSection = (props) => {
           <motion.button
               onClick={() => {
                 // Replace the URL below with the actual URL you want to navigate to
-                window.location.href = 'https://drive.google.com/file/d/1sTinGa8pQX-F6aoS1R-_sz0hm72vbPE6/view?usp=drive_link';
+                window.location.href = 'https://drive.google.com/file/d/1E6blxiCgUTrTfWAfKgK3T4OctF0yaVbD/view?usp=sharing';
               }}
             className={`bg-indigo-600 text-white py-4 px-8
             rounded-lg font-bold text-lg mt-4 md:mt-16`}
