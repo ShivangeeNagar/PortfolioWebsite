@@ -144,7 +144,7 @@ const skills = [
     level: 80,
   },
   {
-    title: "Database Systems (MongoDB/ MySQL/ MS SQL server/ Redis)",
+    title: "AWS Services(S3, CloudFront, ECS, Elastic Loader Balancer, CloudWatch, Firelens) & Database Systems (MongoDB/ MySQL/ MS SQL server/ Redis)",
     level: 70,
   },
 ];
@@ -208,10 +208,16 @@ const ExperienceSection = () => {
   const experiences = [
     {
       company: "Siemens Ltd",
+      title: "Automation Engineer Internship",
+      year: "May 2017 - July 2017",
+      address: "Goa, India",
+    },
+    {
+      company: "Siemens Ltd",
       title: "Software Developer",
-      year: "August 2018 - August 2021",
+      year: "July 2018 - August 2021",
       address: "Mumbai, India",
-    },    
+    }, 
     {
       company: "Vecna Robotics",
       title: "Full-Stack Software Developer Coop",
@@ -223,12 +229,6 @@ const ExperienceSection = () => {
       title: "Research Assistant (VR Developer)",
       year: "January 2023 - August 2023",
       address: "Boston, MA, USA",
-    },
-    {
-      company: "Siemens Ltd",
-      title: "Automation Engineer Internship",
-      year: "May 2017 - July 2017",
-      address: "Goa, India",
     },
   ];
 
