@@ -220,7 +220,7 @@ const ExperienceSection = () => {
     }, 
     {
       company: "Vecna Robotics",
-      title: "Full-Stack Software Developer Coop",
+      title: "Full-Stack Software Developer",
       year: "May 2022 - December 2022",
       address: "Boston, MA, USA",
     },
